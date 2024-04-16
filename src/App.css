@@ -1,0 +1,31 @@
+.main-div{
+  display: flex;
+}
+.side-container{
+  width: 100%;
+}
+.sidebar{
+  height:100vh;
+}
+.reaction{
+  position: relative;
+  float: right;
+}
+.dltbtn{
+  position: relative;
+  float: right;
+}
+.dltlogo{
+  font-size: 1.4rem;
+}
+.tags{
+  margin: 0px 5px;
+}
+
+.form_div{
+  width: 60%;
+  margin-left: 20%;
+}
+.card-div{
+  min-height: 30vh;
+}
